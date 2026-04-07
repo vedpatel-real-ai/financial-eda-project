@@ -1,0 +1,30 @@
+📚 What’s Being Installed and WHY?
+
+1. yfinance
+
+Purpose: Downloads real stock market data from Yahoo Finance
+Why needed: Acts as your data source (no need to manually download CSV files)
+
+2. pandas
+Purpose: Core library for data handling and analysis
+Why needed: Used to load, clean, manipulate, and analyze datasets efficiently
+
+3. numpy
+
+Purpose: Performs mathematical and numerical operations
+Why needed: Helps with calculations like mean, standard deviation, arrays, etc.
+
+4. matplotlib
+
+Purpose: Basic plotting and visualization library
+Why needed: Used to create charts like line graphs, bar charts, etc.
+
+5. seaborn
+
+Purpose: Advanced visualization built on top of matplotlib
+Why needed: Makes charts look more professional with less code
+
+6. jupyter
+
+Purpose: Interactive coding environment (.ipynb notebooks)
+Why needed: Lets you write code step-by-step, visualize outputs, and explain analysis clearly
