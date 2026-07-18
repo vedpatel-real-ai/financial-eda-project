@@ -148,6 +148,14 @@ jupyter notebook financial_eda.ipynb
 
 ---
 
+## 📈 Results
+
+### Growth of a $1 Investment (2022–2025)
+
+The chart below compares the cumulative return of a hypothetical **$1 investment** in Apple (AAPL), Microsoft (MSFT), and Tesla (TSLA) over the analysis period.
+
+![Growth of a $1 Investment](cumulative_returns.png)
+
 ## 🚀 Future Improvements
 
 - [ ] Pull live data via yfinance when rate limits allow
